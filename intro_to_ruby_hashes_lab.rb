@@ -73,7 +73,7 @@ def monopoly_with_fourth_tier
       }
     }
   }
-      },
+     },
 			:pennsylvania_railroad=>{},
 			:b_and_o_railroad=>{},
 			:shortline=>{}
@@ -87,5 +87,5 @@ def monopoly_with_fourth_tier
       :four_pieces_owned=>200
     }
 }
-}
+} 
 end
